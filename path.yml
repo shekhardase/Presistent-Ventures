@@ -1,0 +1,9 @@
+1. basic react app
+2. tailwind css setup
+3. create app component
+4. download all images from thirty six studios
+5. store images in array
+6. create canvas component
+7. load image from 0 to 150 (jitne hai utne)
+8. make canvas dynamic so it loads 150 images from desired index
+9. reuse the canvas component to create new canvas as many times as we want
